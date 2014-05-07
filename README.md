@@ -3,6 +3,8 @@ music-player-interaction
 
 I'm experimenting with Quartz Composer to build some interactions/animations
 
+Watch the animations in [this video right here](http://rafaelconde.net/assets/images/portfolio/animation_web.mp4).
+
 ##Interactions so far:
 
 * Fade in/out of the controls
